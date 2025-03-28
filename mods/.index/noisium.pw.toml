@@ -1,0 +1,17 @@
+filename = 'noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar'
+name = 'Noisium'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.4.0+mc1.21.2-1.21.3'
+
+[download]
+hash = 'cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar'
+
+[update.modrinth]
+mod-id = 'KuNKN7d2'
+version = 'M4c8aGZ4'

@@ -1,0 +1,17 @@
+filename = 'lithium-fabric-0.14.2-snapshot+mc1.21.3-build.91.jar'
+name = 'Lithium'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mc1.21.3-0.14.2-fabric'
+
+[download]
+hash = '6c025877e0f5de8f87baca0be08e19bbad8fb7f6e2037d064f2497fd9779cdc3b979dfc80d228374934ef84014949c9cb4740c816cac0ac9ad0d566d1d7e4f0e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gvQqBUqZ/versions/QhCwdt4l/lithium-fabric-0.14.2-snapshot%2Bmc1.21.3-build.91.jar'
+
+[update.modrinth]
+mod-id = 'gvQqBUqZ'
+version = 'QhCwdt4l'
