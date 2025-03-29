@@ -1,0 +1,17 @@
+filename = 'enhancedblockentities-0.11+1.21.2.jar'
+name = 'Enhanced Block Entities'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.11+1.21.2'
+
+[download]
+hash = '680f3a1f2231913d1578ee0703192cf883138142966207ad8c49c0c0066c26ea5ca12530f12faaf87ade925360f3e04ca16d77b6144297f186501d5db390b953'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OVuFYfre/versions/fOVHsM6M/enhancedblockentities-0.11%2B1.21.2.jar'
+
+[update.modrinth]
+mod-id = 'OVuFYfre'
+version = 'fOVHsM6M'
