@@ -1,0 +1,27 @@
+filename = 'ok_zoomer-fabric-11.0.0-beta.4.jar'
+name = 'Ok Zoomer'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4-pre1',
+    '1.21.4-pre2',
+    '1.21.4-pre3',
+    '1.21.4-rc1',
+    '1.21.4-rc2',
+    '1.21.4-rc3'
+]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '11.0.0-beta.4+fabric'
+
+[download]
+hash = 'd5b0c26b69718a2ffb639e32fc7ccd3a3711ddd21be10bbd4c806a57e87a3c3bbea06f7530d0e17382798d59600febdaa321da21aaad68af69a198417eb5e726'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aXf2OSFU/versions/j5LPgV8h/ok_zoomer-fabric-11.0.0-beta.4.jar'
+
+[update.modrinth]
+mod-id = 'aXf2OSFU'
+version = 'j5LPgV8h'

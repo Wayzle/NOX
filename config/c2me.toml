@@ -22,8 +22,6 @@ defaultGlobalExecutorParallelismExpression = "max(1,min(if(is_client,(cpus/2.66+
 # (Default: 3) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 
-[clientSideConfig]
-
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Enable client-side support for extended render distance protocol (c2me:ext_render_distance_v1)
 		# This allows requesting render distances higher than 127 chunks from the server
@@ -77,6 +75,8 @@ globalExecutorParallelism = "default"
 	# Whether to use the fast reduced allocation chunk serializer
 	# (may cause incompatibility with other mods)
 	# 
+	# Set to false for the following reasons: 
+	# Incompatible with architectury@14.0.4 (*) (defined in c2me) 
 	gcFreeChunkSerializer = true
 	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
@@ -192,4 +192,3 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	useEndBiomeCache = "default"
-
