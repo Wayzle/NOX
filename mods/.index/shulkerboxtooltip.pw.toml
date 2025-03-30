@@ -1,0 +1,17 @@
+filename = 'shulkerboxtooltip-fabric-5.2.4+1.21.4.jar'
+name = 'Shulker Box Tooltip'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.2.4+1.21.4-fabric'
+
+[download]
+hash = 'c4e20fd77208c418ce9b5d2b40963f85d3934021a7390c7dd87cf47baef814a8176acfc6ecfb8bdebe1e914f3a92e9febc839a515dac537510ba29e7b0bbea2d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2M01OLQq/versions/idZLXMFh/shulkerboxtooltip-fabric-5.2.4%2B1.21.4.jar'
+
+[update.modrinth]
+mod-id = '2M01OLQq'
+version = 'idZLXMFh'
