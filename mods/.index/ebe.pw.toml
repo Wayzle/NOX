@@ -1,17 +1,17 @@
-filename = 'enhancedblockentities-0.11+1.21.2.jar'
+filename = 'enhancedblockentities-0.11.3+1.21.4.jar'
 name = 'Enhanced Block Entities'
 side = 'client'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.11+1.21.2'
+x-prismlauncher-version-number = '0.11.3+1.21.4'
 
 [download]
-hash = '680f3a1f2231913d1578ee0703192cf883138142966207ad8c49c0c0066c26ea5ca12530f12faaf87ade925360f3e04ca16d77b6144297f186501d5db390b953'
+hash = 'c35bd51b54132abca669341cf717c4218e7be0e639d7b85f977d50fe613121a9fdf514c27a0595b58911363cb1e5226732275dc51f59f598345d19051d0a948b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/OVuFYfre/versions/fOVHsM6M/enhancedblockentities-0.11%2B1.21.2.jar'
+url = 'https://cdn.modrinth.com/data/OVuFYfre/versions/YokFoILZ/enhancedblockentities-0.11.3%2B1.21.4.jar'
 
 [update.modrinth]
 mod-id = 'OVuFYfre'
-version = 'fOVHsM6M'
+version = 'YokFoILZ'

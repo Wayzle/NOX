@@ -1,17 +1,17 @@
-filename = 'vmp-fabric-mc1.21.3-0.2.0+beta.7.181-all.jar'
-name = 'Very Many Players (Fabric)'
+filename = 'vmp-fabric-mc1.21.4-0.2.0+beta.7.192-all.jar'
+name = 'Very Many Players'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.3' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
 x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = '0.2.0+beta.7.181+1.21.3'
+x-prismlauncher-version-number = '0.2.0+beta.7.192+1.21.4'
 
 [download]
-hash = '6d514ead6fbf8dcc3be6792db631c5f22068021bb4117fe4d60be6def067d9bbaf7e5a993baf5b75e69a639ebbc33da95a50aafd98fdad184e62961eb75517df'
+hash = '4e13cfbb97099784bb27fbb87eebc163974ba6c31081829d01ae435920d2604df03c625d5daecbefa1a0cca40b699840d5e964819993b451b1c9c7a7bd7c80d2'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/wnEe9KBa/versions/9jPWZqdL/vmp-fabric-mc1.21.3-0.2.0%2Bbeta.7.181-all.jar'
+url = 'https://cdn.modrinth.com/data/wnEe9KBa/versions/61Gy0NAD/vmp-fabric-mc1.21.4-0.2.0%2Bbeta.7.192-all.jar'
 
 [update.modrinth]
 mod-id = 'wnEe9KBa'
-version = '9jPWZqdL'
+version = '61Gy0NAD'
